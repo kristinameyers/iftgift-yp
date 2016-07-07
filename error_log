@@ -1,0 +1,6 @@
+[27-Jan-2016 00:36:57 America/Chicago] PHP Notice:  Trying to get property of non-object in /home1/flashbag/public_html/demo4/yp/process_yp.php on line 31
+[27-Jan-2016 00:36:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/flashbag/public_html/demo4/yp/process_yp.php on line 42
+[27-Jan-2016 01:50:52 America/Chicago] PHP Notice:  Trying to get property of non-object in /home1/flashbag/public_html/demo4/yp/process_yp.php on line 31
+[27-Jan-2016 01:50:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/flashbag/public_html/demo4/yp/process_yp.php on line 42
+[27-Jan-2016 01:51:17 America/Chicago] PHP Notice:  Trying to get property of non-object in /home1/flashbag/public_html/demo4/yp/process_yp.php on line 31
+[27-Jan-2016 01:51:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/flashbag/public_html/demo4/yp/process_yp.php on line 42
